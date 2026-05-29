@@ -6,7 +6,7 @@
 ---
 ## 📚 O que é PAED?
 
-A plataforma é uma aplicação móvel, que visa apoiar os discentes com Transtorno do Espectro Autista (TEA) na organização de tarefas e na comunicação com professores e tutores. O aplicativo é direcionado especialmente aos discentes do Instituto Federal do Paraná — Campus Pinhais, considerando demandas na organização da rotina escolar e no suporte pedagógico.
+A  é uma aplicação móvel, que visa apoiar os discentes com Transtorno do Espectro Autista (TEA) na organização de tarefas e na comunicação com professores e tutores. O aplicativo é direcionado especialmente aos discentes do Instituto Federal do Paraná — Campus Pinhais, considerando demandas na organização da rotina escolar e no suporte pedagógico.
 
 A plataforma insere-se no campo da Tecnologia Assistiva (TA), na categoria de recursos digitais de apoio ao uso de computadores e dispositivos móveis, oferecendo um ambiente simples, acessível e estruturado.
 
